@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-with-api-and-routes/static/css/main.c1f86fb1.css",
+    "main.js": "/react-app-with-api-and-routes/static/js/main.204ced65.js",
+    "index.html": "/react-app-with-api-and-routes/index.html",
+    "main.c1f86fb1.css.map": "/react-app-with-api-and-routes/static/css/main.c1f86fb1.css.map",
+    "main.204ced65.js.map": "/react-app-with-api-and-routes/static/js/main.204ced65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f86fb1.css",
+    "static/js/main.204ced65.js"
+  ]
+}
